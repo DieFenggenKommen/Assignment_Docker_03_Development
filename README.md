@@ -9,15 +9,15 @@ Lernziele
 - Was ist Nodemon und wofür wird es hier verwendet.
 - Wie können die Befehle CMD und ENTRYPOINT so verwendet werden, dass der Container sowohl im Entwicklungsmodus, als auch für die Produktion genutzt werden kann.
 
-##Aufgabe
+## Aufgabe
 Erstelle ein Dockerfile für diese Applikation.
 
-Generiere ein Docker-Image und lade dieses auf dein Docker-Hub Repository hoch.
+- Generiere ein Docker-Image und lade dieses auf dein Docker-Hub Repository hoch.
 
-Gib den Docker-Befehl an, der verwendet werden kann um dein Image herunterzuladen und als Container auszuführen.
+- Gib den Docker-Befehl an, der verwendet werden kann um dein Image herunterzuladen und als Container auszuführen.
 
-Wie lautet der Docker-Befehl für den Start im Entwicklungsmodus? 
+- Wie lautet der Docker-Befehl für den Start im Entwicklungsmodus? 
 
-Wie lautet der Docker-Befehl für den Start in der Produktion?
+- Wie lautet der Docker-Befehl für den Start in der Produktion?
 
-###Antwort
+### Antwort
